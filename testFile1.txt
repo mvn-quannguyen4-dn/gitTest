@@ -4,3 +4,4 @@ soft change
 stash change
 new change
 push change
+local change
